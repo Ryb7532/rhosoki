@@ -3,7 +3,7 @@ import HomeIcon from "@mui/icons-material/Home";
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
 import ConstructionIcon from "@mui/icons-material/Construction";
 import HomeMarkDown from "../contents/home.md";
-import HobbyMarkDown from "../contents/hobby.md";
+// import HobbyMarkDown from "../contents/hobby.md";
 import PublicationsMarkDown from "../contents/publications.md";
 
 const ContentData: ContentDataType[] = [
@@ -18,12 +18,12 @@ const ContentData: ContentDataType[] = [
     icon: <AutoStoriesIcon />,
     link: "/publications",
     markdown: PublicationsMarkDown
-  },
-  {
-    title: "Hobby",
-    icon: <ConstructionIcon />,
-    link: "/hobby",
-    markdown: HobbyMarkDown
+  // },
+  // {
+  //   title: "Hobby",
+  //   icon: <ConstructionIcon />,
+  //   link: "/hobby",
+  //   markdown: HobbyMarkDown
   }
 ];
 
