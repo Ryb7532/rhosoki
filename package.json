@@ -14,6 +14,8 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "cross-env": "^7.0.3",
+    "gh-pages": "^5.0.0",
     "github-markdown-css": "^5.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -26,7 +28,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "cross-env PUBLIC_URL=/rhosoki react-scripts build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
