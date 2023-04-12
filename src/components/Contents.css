@@ -1,7 +1,17 @@
 .Contents {
   font-family: Georgia, serif;
-  width: 100%;
+  width: 80%;
+  max-width: 900px;
   padding-top: 30px;
   padding-left: 30px;
+  padding-right: 30px;
   padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .Contents {
+    background-color: #121212;
+  }
 }
