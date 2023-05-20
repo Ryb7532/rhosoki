@@ -11,7 +11,7 @@ const SidebarIcon: React.FC<{}> = () => {
   return (
     <div className="SidebarIcon">
       <img src={Icon} alt="Ryb7532" />
-      <p>Ryubu Hosoki</p>
+      <p>Ryubu HOSOKI</p>
       <div className="SNSIcons">
         <div className="SNSIcon">
           <Link

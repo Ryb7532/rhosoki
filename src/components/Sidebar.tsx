@@ -30,7 +30,6 @@ const Sidebar: React.FC<{
           );
         })}
       </ul>
-      <footer>&copy; 2023 Ryubu Hosoki</footer>
     </div>
   );
 };

@@ -1,10 +1,13 @@
 import React from "react";
 import HomeIcon from "@mui/icons-material/Home";
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
-import ConstructionIcon from "@mui/icons-material/Construction";
+import HistoryEduIcon from "@mui/icons-material/HistoryEdu";
+// import ConstructionIcon from "@mui/icons-material/Construction";
 import HomeMarkDown from "../contents/home.md";
-// import HobbyMarkDown from "../contents/hobby.md";
 import PublicationsMarkDown from "../contents/publications.md";
+import HistoryMarkDown from "../contents/history.md";
+// import HobbyMarkDown from "../contents/hobby.md";
+
 
 const ContentData: ContentDataType[] = [
   {
@@ -12,6 +15,12 @@ const ContentData: ContentDataType[] = [
     icon: <HomeIcon />,
     link: "/home",
     markdown: HomeMarkDown
+  },
+  {
+    title: "History",
+    icon: <HistoryEduIcon />,
+    link: "/history",
+    markdown: HistoryMarkDown
   },
   {
     title: "Publications",
