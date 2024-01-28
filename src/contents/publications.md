@@ -1,6 +1,9 @@
 # Publications
 
-## Conference
+## Conference Proceedings
+
+1. **Ryubu Hosoki**, Toshio Endo, Takahiro Hirofuchi, Tsutmu Ikegami. "AshPipe: Asynchronous Hybrid Pipeline Parallel for DNN Training." Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (2024).  
+DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
 
 ## Domestic Workshop
 
