@@ -12,7 +12,8 @@
   Institute of Physical and Chemical Research (RIKEN), Junior Research Associate (declined).
 
 - 2021/07~2023/03  
-  National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Research Assistant (paid).
+  National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Research Assistant.
+
 
 ## Grants, Honours and Scholarships
 
@@ -21,3 +22,9 @@
 
 - 2023/04~  
   Tokyo Tech Tsubame Scholarship for Doctoral Students, Covering living expenses (declined).
+
+
+## Teaching
+
+- 2023  
+  Computer Systems, Tokyo Institute of Technology, Math. and Comp. Science, TA.
