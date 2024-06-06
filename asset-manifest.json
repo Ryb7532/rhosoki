@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rhosoki/static/css/main.3b76b599.css",
-    "main.js": "/rhosoki/static/js/main.f091497b.js",
+    "main.js": "/rhosoki/static/js/main.8695358c.js",
     "static/js/787.4acb8362.chunk.js": "/rhosoki/static/js/787.4acb8362.chunk.js",
     "static/media/icon.png": "/rhosoki/static/media/icon.daa557caf8d756fc4d86.png",
-    "static/media/publications.md": "/rhosoki/static/media/publications.8b99685a56be3a91fc90.md",
-    "static/media/history.md": "/rhosoki/static/media/history.f80e6367a9b26a271819.md",
+    "static/media/publications.md": "/rhosoki/static/media/publications.c99ba6a45c9ff4261d69.md",
+    "static/media/history.md": "/rhosoki/static/media/history.f6500e71d251b585746c.md",
     "index.html": "/rhosoki/index.html",
     "static/media/home.md": "/rhosoki/static/media/home.fb5c744e6f06cfc5425e.md",
     "main.3b76b599.css.map": "/rhosoki/static/css/main.3b76b599.css.map",
-    "main.f091497b.js.map": "/rhosoki/static/js/main.f091497b.js.map",
+    "main.8695358c.js.map": "/rhosoki/static/js/main.8695358c.js.map",
     "787.4acb8362.chunk.js.map": "/rhosoki/static/js/787.4acb8362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b76b599.css",
-    "static/js/main.f091497b.js"
+    "static/js/main.8695358c.js"
   ]
 }
