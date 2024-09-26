@@ -2,11 +2,14 @@
 
 ## Employment History
 
+- 2024/09  
+  Fujitsu Laboratories, Kawasaki, 3-week Research Internship.
+
 - 2023/06~2023/08  
   The French Alternative Energies and Atomic Energy Commission (CEA), Saclay, Research Internship.
 
 - 2023/04~  
-  Tokyo Institute of Technology, Global Scientific Information and Computing Center, Research Assistant.
+  Tokyo Institute of Technology, Global Scientific Information and Computing Center, Tokyo, Research Assistant.
 
 - (declined) 2023/10~  
   Institute of Physical and Chemical Research (RIKEN), Junior Research Associate.
