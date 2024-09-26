@@ -27,3 +27,10 @@ DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
    IPSJ SIG Technical Report, 2022-HPC-185, No.16, Shimonoseki, July 2022. (Written in Japanese)
 1. **Ryubu Hosoki**, Akihiro Nomura, Toshio Endo.
    IPSJ SIG Technical Report, 2021-HPC-180, No.9, online, July 2021. (Written in Japanese)
+
+## Poster Presentation
+
+1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
+   "An optimization pass for training speed-up and strategy search in 3D parallelism"
+   The IEEE International Conference on Cluster Computing (CLUSTER2024),
+   Kobe, September 2024. (Refereed)
