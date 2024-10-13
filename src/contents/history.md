@@ -11,9 +11,6 @@
 - 2023/04~  
   Tokyo Institute of Technology, Global Scientific Information and Computing Center, Tokyo, Research Assistant.
 
-- (declined) 2023/10~  
-  Institute of Physical and Chemical Research (RIKEN), Junior Research Associate.
-
 - 2021/07~2023/03  
   National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Research Assistant.
 
@@ -24,9 +21,6 @@
 
 - 2023/04~2024/03  
   Cross the border! Tokyo Tech Pioneering Doctoral Research Project, Covering living expenses.
-
-- (declined) 2023/04~  
-  Tokyo Tech Tsubame Scholarship for Doctoral Students, Covering living expenses.
 
 
 ## Teaching

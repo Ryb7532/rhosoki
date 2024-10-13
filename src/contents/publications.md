@@ -32,5 +32,5 @@ DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
 
 1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
    "An optimization pass for training speed-up and strategy search in 3D parallelism"
-   The IEEE International Conference on Cluster Computing (CLUSTER2024),
+   IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops 2024),
    Kobe, September 2024. (Refereed)
