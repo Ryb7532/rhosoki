@@ -22,7 +22,7 @@ const SidebarIcon: React.FC<{}> = () => {
           </Link>
         </div>
         <div className="SNSIcon">
-          <Link href="mailto:hosoki.r.aa@m.titech.ac.jp" color="#fff">
+          <Link href="mailto:hosoki.r.6afe@m.isct.ac.jp" color="#fff">
             <EmailIcon fontSize="large" />
           </Link>
         </div>
