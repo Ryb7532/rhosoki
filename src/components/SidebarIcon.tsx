@@ -3,7 +3,8 @@ import "./SidebarIcon.css";
 import PersonIcon from "@mui/icons-material/Person";
 import EmailIcon from "@mui/icons-material/Email";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import TwitterIcon from "@mui/icons-material/Twitter";
+import XIcon from '@mui/icons-material/X';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import React from "react";
 import Link from "@mui/material/Link";
 
@@ -33,7 +34,12 @@ const SidebarIcon: React.FC<{}> = () => {
         </div>
         <div className="SNSIcon">
           <Link href="https://twitter.com/RHosoki" color="#fff">
-            <TwitterIcon fontSize="large" />
+            <XIcon fontSize="large" />
+          </Link>
+        </div>
+        <div className="SNSIcon">
+          <Link href="https://www.linkedin.com/in/ryubu-hosoki-29a12934a" color="#fff">
+            <LinkedInIcon fontSize="large" />
           </Link>
         </div>
       </div>
