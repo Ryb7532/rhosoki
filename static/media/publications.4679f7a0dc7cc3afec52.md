@@ -3,10 +3,16 @@
 ## Conference Proceedings
 
 1. **Ryubu Hosoki**, Toshio Endo, Takahiro Hirofuchi, Tsutmu Ikegami.
-"AshPipe: Asynchronous Hybrid Pipeline Parallel for DNN Training."
-Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2024), pp. 117-126,
-Nagoya, January 25-27, 2024.  
-DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
+   "AshPipe: Asynchronous Hybrid Pipeline Parallel for DNN Training."
+   Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2024), pp. 117-126,
+   Nagoya, January 25-27, 2024.  
+   DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
+
+1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
+   "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning"
+   IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2025),
+   Toromso, May 2025.  
+
 
 ## Domestic Workshop
 
@@ -27,6 +33,7 @@ DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
    IPSJ SIG Technical Report, 2022-HPC-185, No.16, Shimonoseki, July 2022. (Written in Japanese)
 1. **Ryubu Hosoki**, Akihiro Nomura, Toshio Endo.
    IPSJ SIG Technical Report, 2021-HPC-180, No.9, online, July 2021. (Written in Japanese)
+
 
 ## Poster Presentation
 
