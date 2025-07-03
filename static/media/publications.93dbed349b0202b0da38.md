@@ -2,16 +2,16 @@
 
 ## Conference Proceedings
 
+1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
+   "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning"
+   IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2025),
+   Toromso, May 2025.  
+   DOI: https://doi.org/10.1109/CCGRID64434.2025.00044
 1. **Ryubu Hosoki**, Toshio Endo, Takahiro Hirofuchi, Tsutmu Ikegami.
    "AshPipe: Asynchronous Hybrid Pipeline Parallel for DNN Training."
    Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2024), pp. 117-126,
    Nagoya, January 25-27, 2024.  
    DOI: https://dl.acm.org/doi/10.1145/3635035.3635045
-
-1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
-   "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning"
-   IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2025),
-   Toromso, May 2025.  
 
 
 ## Domestic Workshop
@@ -25,6 +25,12 @@
 
 ### Unrefereed Papers
 
+1. Tomohiro Sato, Toshio Endo, **Ryubu Hosoki**.
+   IPSJ SIG Technical Report, 2025-HPC-200, No.17, Takamatsu, August 2025. (Written in Japanese)
+1. Yusuke Komiyama, **Ryubu Hosoki**, Toshio Endo.
+   IPSJ SIG Technical Report, 2025-HPC-200, No.18, Takamatsu, August 2025. (Written in Japanese)
+1. Tomonari Yazawa, Toshio Endo, Shohei Minami, **Ryubu Hosoki**.
+   IPSJ SIG Technical Report, 2025-HPC-200, No.20, Takamatsu, August 2025. (Written in Japanese)
 1. **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
    "An optimization pass for training speed-up and strategy search in 3D parallelism"
    IPSJ SIG Technical Report, 2024-HPC-194, No.7,
