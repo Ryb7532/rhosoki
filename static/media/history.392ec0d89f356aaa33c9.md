@@ -2,11 +2,14 @@
 
 ## Employment History
 
-- 2024/10~2025/01  
+- 2024/12\~2026/03  
+  High Performance Big Data Research Team, RIKEN R-CCS, Student Trainee.
+
+- 2024/10\~2025/01  
   Nefrock, inc., Tokyo, Application Development Internship.
 
-- 2024/10\~  
-  Institute of Science Tokyo, Institute of Integrated Research Supercoputing Research Center, Yokohama, Research Assistant.
+- 2024/10\~2026/03  
+  Institute of Integrated Research Supercoputing Research Center, Institute of Science Tokyo, Yokohama, Research Assistant.
 
 - 2024/09  
   Fujitsu Laboratories, Kawasaki, 3-week Research Internship.
@@ -15,7 +18,7 @@
   The French Alternative Energies and Atomic Energy Commission (CEA), Saclay, Research Internship.
 
 - 2023/04\~2024/09  
-  Tokyo Institute of Technology, Global Scientific Information and Computing Center, Tokyo, Research Assistant.
+  Global Scientific Information and Computing Center, Tokyo Institute of Technology, Tokyo, Research Assistant.
 
 - 2021/07\~2023/03  
   National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Research Assistant.
