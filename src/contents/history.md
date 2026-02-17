@@ -1,5 +1,16 @@
 # History
 
+## Education
+- 2023/04\~2026/03  
+  Ph.D. in Science, Dept. Mathematical and Computing Science, Institute of Science Tokyo
+
+- 2021/04\~2023/03  
+  Master of Science, Dept. Mathematical and Computing Science, Tokyo Institute of Technology (currently, Institute of Science Tokyo)
+
+- 2017/04\~2021/03  
+  Bachelor of Science, Dept. Mathematical and Computing Science, Tokyo Institute of Technology (currently, Institute of Science Tokyo)
+
+
 ## Employment History
 
 - 2024/12\~2026/03  
@@ -26,7 +37,7 @@
 
 ## Grants and Scholarships
 
-- 2024/04\~  
+- 2024/04\~2026/03  
   Tokyo Tech Program for Development of Next-Generation Front-Runners with Comprehensive Knowledge and Humanity (Tokyo Tech SPRING), Covering living expenses.
 
 - 2023/04\~2024/03  
@@ -35,7 +46,9 @@
 
 ## Awards and Honours
 
-- IEEE CCGrid 2025 Best Paper Award
+- IEEE CCGrid 2025 Best Paper Award, IEEE Computer Society, "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning", 2025/05
+
+- RIKEN OHBU Award, RIKEN, "A CEA–RIKEN Collaborative Achievement in Optimizing 3D Parallel Deep Learning Performance", 2026/03
 
 
 ## Teaching
