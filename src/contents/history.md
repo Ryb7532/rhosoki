@@ -48,7 +48,6 @@
 
 - IEEE CCGrid 2025 Best Paper Award, IEEE Computer Society, "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning", 2025/05
 
-- RIKEN OHBU Award, RIKEN, "A CEA–RIKEN Collaborative Achievement in Optimizing 3D Parallel Deep Learning Performance", 2026/03
 
 
 ## Teaching
