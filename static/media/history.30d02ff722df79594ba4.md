@@ -2,7 +2,8 @@
 
 ## Education
 - 2023/04\~2026/03  
-  Ph.D. in Science, Dept. Mathematical and Computing Science, Institute of Science Tokyo
+  Ph.D. in Science, Dept. Mathematical and Computing Science, Institute of Science Tokyo  
+  Thesis title: A Study on Parallelization Strategies and Communication Optimizations for Accelerating Distributed Deep Learning
 
 - 2021/04\~2023/03  
   Master of Science, Dept. Mathematical and Computing Science, Tokyo Institute of Technology (currently, Institute of Science Tokyo)
