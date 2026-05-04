@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Ph.D. candidate in Dept. of Mathematical and Computing Science at Institute of Science Tokyo (Formerly, Tokyo Institute of Technology).
+I hold a Ph.D. in Science from Endo lab at Institute of Science Tokyo (Formerly, Tokyo Institute of Technology).
 
 My research interests are in Distributed Deep Learning, GPU Programming, High Performance Computing.
 
