@@ -3,16 +3,16 @@
 ## Employment History
 
 - 2026/04\~  
-  Fujitsu limited.
+  Fujitsu Limited.
 
 - 2024/12\~2026/03  
   High Performance Big Data Research Team, RIKEN R-CCS, Student Trainee.
 
-- 2024/10\~2025/01  
-  Nefrock inc., Tokyo, Application Development Internship.
-
 - 2024/10\~2026/03  
   Institute of Integrated Research Supercoputing Research Center, Institute of Science Tokyo, Yokohama, Research Assistant.
+
+- 2024/10\~2025/01  
+  Nefrock Inc., Tokyo, Application Development Internship.
 
 - 2024/09  
   Fujitsu Research, Kawasaki, 3-week Research Internship.
@@ -50,9 +50,9 @@
 
 ## Awards and Honours
 
-- IEEE CCGrid 2025 Best Paper Award, IEEE Computer Society, "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning", 2025/05
-
 - RIKEN OHBU Award, RIKEN, "A CEA–RIKEN Collaborative Achievement in Optimizing 3D Parallel Deep Learning Performance", 2026/03
+
+- IEEE CCGrid 2025 Best Paper Award, IEEE Computer Society, "An Optimization Technique for Hiding Communication Costs of 3D Parallel Training in Deep Learning", 2025/05
 
 
 ## Teaching
