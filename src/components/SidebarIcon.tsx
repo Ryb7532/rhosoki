@@ -16,7 +16,7 @@ const SidebarIcon: React.FC<{}> = () => {
       <div className="SNSIcons">
         <div className="SNSIcon">
           <Link
-            href="https://github.com/Ryb7532/myCV/blob/main/CV.pdf"
+            href="https://github.com/Ryb7532/rhosoki/blob/master/myCV/myCV.pdf"
             color="#fff"
           >
             <PersonIcon fontSize="large" />
