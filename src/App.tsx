@@ -2,14 +2,14 @@ import "./App.css";
 import Sidebar from "./components/Sidebar";
 import Contents from "./components/Contents";
 import { useEffect, useState } from "react";
-import HomeMarkDown from "./contents/home.md";
-import { ContentDataType } from "./components/ContentData";
+import HomeMarkDown from "./contents/home.md?raw";
+import type { ContentDataType } from "./components/ContentData";
 import ContentData from "./components/ContentData";
 
-const findContent = (data: Array<ContentDataType>, link: string): "*.md" => {
+const findContent = (data: Array<ContentDataType>, link: string): string => {
   return data.reduce((acc, e) => {
     if (e.link === link) {
-      return e.markdown;
+      return e.markdownText;
     } else {
       return acc;
     }
@@ -20,11 +20,7 @@ function App() {
   const [markDown, setMarkDown] = useState(`# Not found`);
   const [curLink, setCurLink] = useState("/home");
   useEffect(() => {
-    fetch(findContent(ContentData, curLink) ?? HomeMarkDown)
-      .then((response) => response.text())
-      .then((text) => {
-        setMarkDown(text);
-      });
+    setMarkDown(findContent(ContentData, curLink) ?? HomeMarkDown);
   }, [curLink]);
 
   return (
@@ -34,7 +30,7 @@ function App() {
         setCurLink={setCurLink}
         sidebarData={ContentData}
       />
-      <Contents markdown={markDown} />
+      <Contents markdownText={markDown} />
     </div>
   );
 }

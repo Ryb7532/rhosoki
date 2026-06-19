@@ -3,7 +3,7 @@
 ## Employment History
 
 - 2026/04\~  
-  Fujitsu Limited.
+  AI Laboratory, Fujitsu Research.
 
 - 2024/12\~2026/03  
   High Performance Big Data Research Team, RIKEN R-CCS, Student Trainee.

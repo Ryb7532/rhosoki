@@ -2,11 +2,9 @@ import React from "react";
 import HomeIcon from "@mui/icons-material/Home";
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
 import HistoryEduIcon from "@mui/icons-material/HistoryEdu";
-// import ConstructionIcon from "@mui/icons-material/Construction";
-import HomeMarkDown from "../contents/home.md";
-import PublicationsMarkDown from "../contents/publications.md";
-import HistoryMarkDown from "../contents/history.md";
-// import HobbyMarkDown from "../contents/hobby.md";
+import HomeMarkDown from "../contents/home.md?raw";
+import PublicationsMarkDown from "../contents/publications.md?raw";
+import HistoryMarkDown from "../contents/history.md?raw";
 
 
 const ContentData: ContentDataType[] = [
@@ -14,25 +12,19 @@ const ContentData: ContentDataType[] = [
     title: "Home",
     icon: <HomeIcon />,
     link: "/home",
-    markdown: HomeMarkDown
+    markdownText: HomeMarkDown
   },
   {
     title: "History",
     icon: <HistoryEduIcon />,
     link: "/history",
-    markdown: HistoryMarkDown
+    markdownText: HistoryMarkDown
   },
   {
     title: "Publications",
     icon: <AutoStoriesIcon />,
     link: "/publications",
-    markdown: PublicationsMarkDown
-  // },
-  // {
-  //   title: "Hobby",
-  //   icon: <ConstructionIcon />,
-  //   link: "/hobby",
-  //   markdown: HobbyMarkDown
+    markdownText: PublicationsMarkDown
   }
 ];
 
@@ -40,7 +32,7 @@ export default ContentData;
 
 export interface ContentDataType {
   title: string;
-  icon: JSX.Element;
+  icon: React.JSX.Element;
   link: string;
-  markdown: "*.md";
+  markdownText: string;
 }

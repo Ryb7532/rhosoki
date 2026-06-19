@@ -1,6 +1,6 @@
 import React from "react";
 import "./Sidebar.css";
-import { ContentDataType } from "./ContentData";
+import type { ContentDataType } from "./ContentData";
 import SidebarIcon from "./SidebarIcon";
 
 const Sidebar: React.FC<{
@@ -19,7 +19,7 @@ const Sidebar: React.FC<{
               className="row"
               id={props.curLink === value.link ? "active" : ""}
               onClick={() =>
-                props.setCurLink((prev) => {
+                props.setCurLink((_) => {
                   return value.link;
                 })
               }
@@ -30,6 +30,7 @@ const Sidebar: React.FC<{
           );
         })}
       </ul>
+      <footer>Last modified: 2026-06-20</footer>
     </div>
   );
 };

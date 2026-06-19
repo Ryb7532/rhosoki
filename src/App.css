@@ -1,6 +1,6 @@
 .App {
-  overflow: hidden;
   display: flex;
+  min-height: 100vh;
 }
 
 * {
