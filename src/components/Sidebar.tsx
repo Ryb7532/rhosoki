@@ -30,7 +30,7 @@ const Sidebar: React.FC<{
           );
         })}
       </ul>
-      <footer>Last modified: 2026-06-20</footer>
+      <footer>Last modified: 2026-09-30</footer>
     </div>
   );
 };

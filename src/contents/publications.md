@@ -2,6 +2,10 @@
 
 ## Conference Proceedings
 
+- Tomohiro Sato, Toshio Endo, **Ryubu Hosoki**.
+   "Evaluation of Large-Scale Supercomputer Network Topology Using Betweenness Centrality"
+   in Proceedings of IEEE International Conference on Cluster Computing 2026 (CLUSTER 2026), 
+   Alexandria, September 2026.  
 - **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
    "Optimizing Intra-Layer Parallel Communication for LLM Training on Systems with Fully-Connected Mesh GPU Topology"
    in Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region (SCA/HPCAsia 2026), pp. 328-339,
