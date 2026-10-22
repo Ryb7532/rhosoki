@@ -4,7 +4,7 @@
 
 - Tomohiro Sato, Toshio Endo, **Ryubu Hosoki**.
    "Evaluation of Large-Scale Supercomputer Network Topology Using Betweenness Centrality"
-   in Proceedings of IEEE International Conference on Cluster Computing 2026 (CLUSTER 2026), 
+   in Proceedings of IEEE International Conference on Cluster Computing 2026 (CLUSTER 2026), pp. 254-264,
    Alexandria, September 2026.  
    DOI: https://doi.org/10.1109/cluster68337.2026.00032
 - **Ryubu Hosoki**, Kento Sato, Toshio Endo, Julien Bigot, Edouard Audit.
